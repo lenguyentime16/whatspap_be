@@ -19,6 +19,7 @@
     "express-mongo-sanitize": "^2.2.0",
     "helmet": "6.0.0",
     "http-errors": "2.0.0",
+    "mongoose": "^6.13.1",
     "morgan": "^1.10.0",
     "nodemon": "^3.1.4",
     "trim-request": "1.0.6",
