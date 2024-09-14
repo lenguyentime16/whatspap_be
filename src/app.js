@@ -10,6 +10,8 @@ import cors from "cors";
 import createHttpError from "http-errors";
 import routes from "./routes/index.js";
 
+
+
 //dotenv config
 dotenv.config();
 
